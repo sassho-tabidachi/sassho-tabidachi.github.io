@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>札沼線 旅立ちの汽笛</title>
+<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<style>
+  #map { 
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+  }
+</style>
+</head>
+<body>
+
+<h1>「札沼線 旅立ちの汽笛」写真公開サイト</h1>
+
+<p>2020年5月6日。<br>賑やかな最期を迎えるはずだった沿線は、<br>静けさに包まれていた。<br>あの日鳴らなかった汽笛が<br>今、時を超えて響きわたる——。</p>
+
+<img src="40-400.png" alt="40-400">
+
+<hr>
+
+<p>本サイトの写真は、個人利用の範囲内であれば自由にダウンロード可能です。<br>WebサイトやSNSなどへの転載は、<span style="color:red;">必ず引用元（本サイト名・URL）を明記</span>してください。<br>お問い合わせ：石丸 雄理（jrhokkaido3[at]gmail.com）</p>
+
+<p>※以下準備中<br>最終更新日：2026.04.08</p>
+
+<p><a href="sassho-tabidachi-list.pdf">写真集「札沼線 旅立ちの汽笛」（共同文化社）撮影データ</a></p>
+<p>
+  <a href="01.html">新十津川～下徳富</a><br>
+  <a href="02.html">下徳富～南下徳富</a><br>
+  <a href="03.html">南下徳富～於札内</a><br>
+  <a href="04.html">於札内～鶴沼</a><br>
+  <a href="05.html">鶴沼～浦臼</a><br>
+  <a href="06.html">浦臼～札的</a><br>
+  <a href="07.html">札的～晩生内</a><br>
+  <a href="08.html">晩生内～札比内</a><br>
+  <a href="09.html">札比内～豊ケ岡</a><br>
+  <a href="10.html">豊ケ岡～石狩月形</a><br>
+  <a href="11.html">石狩月形～知来乙</a><br>
+  <a href="12.html">知来乙～月ケ岡</a><br>
+  <a href="13.html">月ケ岡～中小屋</a><br>
+  <a href="14.html">中小屋～本中小屋</a><br>
+  <a href="15.html">本中小屋～石狩金沢</a><br>
+  <a href="16.html">石狩金沢～北海道医療大学</a><br>
+  <a href="17.html">北海道医療大学～石狩当別</a><br>
+  <a href="18.html">石狩当別以南</a><br>
+  <a href="19.html">廃線後</a>
+</p>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([43.4000, 141.7000], 10);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+fetch('data.geojson')
+  .then(res => res.json())
+  .then(data => {
+    L.geoJSON(data, {
+      onEachFeature: function(feature, layer) {
+        const title = feature.properties.title;
+        const thumb = feature.properties.thumb;
+        const page = feature.properties.page;
+
+        const popupContent = `
+          <h3>${title}</h3>
+          <a href="${page}">
+            <img src="${thumb}" />
+          </a>
+        `;
+        layer.bindPopup(popupContent);
+      }
+    }).addTo(map);
+  });
+</script>
+
+</body>
+</html>

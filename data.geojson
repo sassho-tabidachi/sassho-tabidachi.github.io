@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Photo",
+        "image": "photos/01/20190505_DSC_5838_web.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8744, 43.5458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Photo",
+        "image": "photos/01/20190711_DSC_5014_web.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8738, 43.5474]
+      }
+    }
+  ]
+}
