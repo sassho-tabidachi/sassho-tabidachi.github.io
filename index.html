@@ -67,14 +67,11 @@ fetch('data.geojson')
     L.geoJSON(data, {
       onEachFeature: function(feature, layer) {
         const title = feature.properties.title;
-        const thumb = feature.properties.thumb;
-        const page = feature.properties.page;
+        const image = feature.properties.image;
 
         const popupContent = `
           <h3>${title}</h3>
-          <a href="${page}">
-            <img src="${thumb}" />
-          </a>
+          <img src="${image}" />
         `;
         layer.bindPopup(popupContent);
       }
