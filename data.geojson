@@ -4,8 +4,41 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "2019.12.05 石狩月形",
+        "image": "photos/11/20191205_DSC_1963_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.6705, 43.3411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.09.13 新十津川",
+        "image": "photos/01/20190913_DSC_5762_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8748, 43.5459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.07.11 新十津川",
+        "image": "photos/01/20190711_DSC_5014_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8737, 43.5481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "2019.05.05 新十津川",
-        "image": "https://sassho-tabidachi.github.io/photos/01/20190505_DSC_5838_web.JPG"
+        "image": "photos/01/20190505_DSC_5838_web.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -15,12 +48,166 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2019.07.11 新十津川",
-        "image": "https://sassho-tabidachi.github.io/photos/01/20190711_DSC_5014_web.JPG"
+        "title": "2020.03.09 新十津川～下徳富",
+        "image": "photos/01/20200309_DSC_9682_web.JPG"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [141.8738, 43.5474]
+        "coordinates": [141.8657, 43.5366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.10.10 新十津川～下徳富",
+        "image": "photos/01/20191010_DSC_1541_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8631, 43.5165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.03.09 新十津川～下徳富",
+        "image": "photos/01/20200309_DSC_9633_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8424, 43.5180]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.11.17 新十津川～下徳富",
+        "image": "photos/01/20191117_DSC_0149_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8612, 43.5142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.02.27 新十津川～下徳富",
+        "image": "photos/01/20200227_DSC_6851_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8620, 43.5139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.08.06 新十津川～下徳富",
+        "image": "photos/01/20190806_DSC_8877_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8581, 43.5056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.09.24 下徳富",
+        "image": "photos/02/20190924_DSC_9248_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8562, 43.5026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.04.13 下徳富～南下徳富",
+        "image": "photos/02/20200413_DSC_6044_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8506, 43.4940]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2018.08.20 南下徳富",
+        "image": "photos/03/20180820_DSCN7800_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8436, 43.4863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.05.25 於札内",
+        "image": "photos/04/20190525_DSC_0225_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8311, 43.4727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.09.12 於札内～鶴沼",
+        "image": "photos/04/20190912_DSC_5506_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8310, 43.4726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.01.28 於札内～鶴沼",
+        "image": "photos/04/20200128_DSC_1607_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8328, 43.4603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.07.11 鶴沼",
+        "image": "photos/05/20190711_DSC_5078_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8420, 43.4567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.11.05 鶴沼～浦臼",
+        "image": "photos/05/20191105_DSC_8687_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8341, 43.4499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.02.16 浦臼",
+        "image": "photos/06/20200216_DSC_3201_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8180, 43.4318]
       }
     }
   ]
