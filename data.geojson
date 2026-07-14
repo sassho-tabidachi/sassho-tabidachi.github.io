@@ -317,7 +317,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [141.6686, 43.3715]
+        "coordinates": [141.6862, 43.3770]
       }
     },
     {
@@ -724,7 +724,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [141.6049, 43.3189]
+        "coordinates": [141.6048, 43.3189]
       }
     },
     {
@@ -735,7 +735,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [141.5997, 43.3158]
+        "coordinates": [141.5997, 43.3157]
       }
     },
     {
@@ -746,7 +746,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [141.6030, 43.3153]
+        "coordinates": [141.6030, 43.3152]
       }
     },
     {
@@ -879,6 +879,347 @@
       "geometry": {
         "type": "Point",
         "coordinates": [141.5817, 43.2977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.11.09 中小屋～本中小屋",
+        "image": "photos/14/20191109_DSC_9066_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5940, 43.2838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.10.18 本中小屋",
+        "image": "photos/15/20191018_DSC_3878_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5920, 43.2802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.01.10 本中小屋～石狩金沢",
+        "image": "photos/15/20200110_DSC_7964_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5896, 43.2678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2018.10.25 本中小屋～石狩金沢",
+        "image": "photos/15/20181025_DSCN2531_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5892, 43.2710]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.09.17 本中小屋～石狩金沢",
+        "image": "photos/15/20190917_DSC_6841_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5829, 43.2953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.02.01 石狩金沢",
+        "image": "photos/16/20200201_DSC_2167_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5691, 43.2454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.02.11 石狩金沢",
+        "image": "photos/16/20190211_DSC_0040_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5694, 43.2456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.01.28 石狩金沢～北海道医療大学",
+        "image": "photos/16/20200128_DSC_1155_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5593, 43.2394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.10.01 北海道医療大学～石狩当別",
+        "image": "photos/17/20191001_DSC_0665_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5421, 43.2247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.09.25 石狩当別",
+        "image": "photos/18/20190925_DSC_9526_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5151, 43.2230]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.12.05 石狩当別",
+        "image": "photos/18/20191205_DSC_2137_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5143, 43.2223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.04.01 石狩当別～石狩太美",
+        "image": "photos/18/20190401_DSC_9703_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.4803, 43.2065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.03.30 札幌",
+        "image": "photos/18/20200330_DSC_3696_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.2871, 43.0575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2019.08.02 苗穂運転所",
+        "image": "photos/18/20190802_DSC_8278_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3734, 43.0688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.04.17 下徳富",
+        "image": "photos/19/20200417_DSC_9040_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8559, 43.5024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.05.07 札比内",
+        "image": "photos/19/20200507_DSC_0263_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7430, 43.3710]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.04.17 石狩月形",
+        "image": "photos/19/20200417_DSC_8955_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.6703, 43.3412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.09.25 石狩月形",
+        "image": "photos/19/20200925_DSC_2747_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.6698, 43.3402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.05.07 札比内",
+        "image": "photos/19/20200507_DSC_0346_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7432, 43.3709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.08.27 下徳富",
+        "image": "photos/19/20200827_DSC_1333_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8558, 43.5027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.11.10 晩生内",
+        "image": "photos/19/20201110_DSC_4438_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7795, 43.4003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2021.05.26" 石狩月形,
+        "image": "photos/19/20210526_DSC_1713_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.6693, 43.3401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.05.15 新富～コンクリート工場前",
+        "image": "photos/19/20200515_DSC_1010_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7364, 43.3658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2020.06.13 ファームエイジ前～金沢会館前",
+        "image": "photos/19/20200613_DSC_1060_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.5688, 43.2476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2021.09.09 晩生内～札比内",
+        "image": "photos/19/20210909_DSC_4790_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7472, 43.3740]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2021.08.12 新十津川～下徳富",
+        "image": "photos/19/20210812_DSC_3729_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8634, 43.5190]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2021.05.26 晩生内",
+        "image": "photos/19/20210526_DSC_1918_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.7791, 43.4005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2021.07.24 新十津川",
+        "image": "photos/19/20210724_DSC_3524_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.8747, 43.5459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2023.04.17 苗穂運転所",
+        "image": "photos/19/20230417_DSC_4010_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3733, 43.0690]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2023.04.19 苗穂運転所",
+        "image": "photos/19/20230419_DSC_4265_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3734, 43.0689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "2023.04.22 苗穂運転所",
+        "image": "photos/19/20230422_DSC_4486_web.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.3759, 43.0710]
       }
     }
   ]
